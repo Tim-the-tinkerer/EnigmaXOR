@@ -1,0 +1,13 @@
+Enigma XOR machine settings
+The rotors are a historical M3 or M4. XOR-Schlüssel is the one addition.
+Empty XOR means encipher and decipher are the same rotor pass. With a
+Schlüssel, encipher is rotors then XOR; decipher is XOR then rotors.
+Reset Grundstellung before each message.
+
+Machine:       M3
+UKW:           B
+Walzenlage:    I II III
+Ringstellung:  A A A
+Grundstellung: A A A
+Stecker:       —
+XOR-Schlüssel: —

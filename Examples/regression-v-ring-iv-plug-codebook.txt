@@ -1,0 +1,17 @@
+GEHEIM
+Schlüsseltafel
+Enigma M4  —  Kriegsmarine
+
+Tag   UKW      Walzenlage             Ringstellung   Steckerbrett                         Grundstellung
+----  -------  ---------------------  -------------  -----------------------------------  --------------
+   1  B-Thin   Gamma VII VIII VI      V U Q K        GA SK IV EL PN RD JH MO CB ZU        M A Y O
+
+Procedure
+1. Insert rotors left to right as listed (Zusatzwalze leftmost on M4).
+2. Set each alphabet ring to Ringstellung.
+3. Set the windows to Grundstellung before the first letter of the message.
+4. Fit the Steckerbrett pairs (at most ten).
+5. Type only letters. Umlauts become AE/OE/UE, ß becomes SS. Output is in five-letter groups.
+6. To decipher, restore these exact settings and type the ciphertext.
+
+Kenngruppen (identification only — not part of the cipher):  KYNK  TCTF  ZFLU  VQIZ
